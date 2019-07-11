@@ -1,5 +1,5 @@
 <template>
-  <v-flex xs8 offset-xs2 md6 offset-md3 lg4 offset-lg4>
+  <v-flex xs10 offset-xs1 md6 offset-md3 lg4 offset-lg4>
     <v-card class="title-card" @keyup.enter="onGuess">
       <v-card-title>
         <h1 display-4>SIAAAAAM</h1>
